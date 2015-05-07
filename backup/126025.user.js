@@ -21,8 +21,8 @@
 // @grant          GM_setValue
 // @grant          GM_deleteValue
 // @grant          GM_getResourceText
-// @require        ../../includes/Includes_XPath/63808.user.js
-// @require        ../../includes/Includes_WinConfig/163374.user.js
+// @require        https://github.com/Kurowaru/userscripts/raw/master/includes/Includes_XPath/63808.user.js
+// @require        https://github.com/Kurowaru/userscripts/raw/master/includes/Includes_WinConfig/163374.user.js
 // @resource       winConfigCss http://pastebin.com/download.php?i=Ldk4J4bi
 // ==/UserScript==
 
