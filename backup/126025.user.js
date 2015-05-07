@@ -22,8 +22,8 @@
 // @grant          GM_deleteValue
 // @grant          GM_getResourceText
 // @resource       winConfigCss http://pastebin.com/download.php?i=Ldk4J4bi
-// @require        http://userscripts.org/scripts/source/63808.user.js
-// @require        http://userscripts.org/scripts/source/163374.user.js
+// @require        ../../includes/Includes_XPath/63808.user.js
+// @require        ../../includes/Includes_WinConfig/163374.user.js
 // ==/UserScript==
 
 /**************************************************************************
