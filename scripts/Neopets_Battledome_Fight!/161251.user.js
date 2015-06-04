@@ -10,7 +10,7 @@
 // @version        2.2.0
 // @language       en
 // @include        http://www.neopets.com/dome/arena.phtml
-// @icon           http://gm.wesley.eti.br/icon.php?desc=161251
+// @icon           http://images.neopets.com/games/pages/icons/med/m-781.png
 // @grant          GM_log
 // @grant          GM_addStyle
 // @grant          GM_getValue
